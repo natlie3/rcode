@@ -1,2 +1,2 @@
 # rcode
-R-code for Data Analysis
+Created a linear model using R-Code
